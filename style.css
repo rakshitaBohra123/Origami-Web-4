@@ -1,0 +1,142 @@
+h1{
+    color: #ff0000;;
+    background-color:  #fffb00;
+    border: solid;
+    text-align: center;
+    font-weight: 50px;
+    font-size: 70px;
+}
+
+
+
+h2{
+    color: #22720e;
+    background-color: #2df1ff;
+    border: solid;
+    border-color: #22720e;
+   font-family: serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3{
+    color:#001692;
+    background-color:#21dd69 ;
+    font-family: 'Trebucet MS','Lucida Sans Unicode','Lucida Grande';
+    text-align: center;
+    padding: 5px;
+    height: 30px;
+}
+
+
+li{
+    color:#ff0000;
+    background-color: #ffd000;
+    padding: 10px;
+    margin: 50px;
+    background-color: #55ff96;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+p{
+    color:#000000;
+    background-color: #fa90ca;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+img{
+    border:7px solid #21dd69;
+    border-radius: 70px;
+    background-color: #ffffff;
+    position: relative;
+}
+
+.crafts{
+    display:flex;
+    justify-content:space-between
+    
+    
+}
+
+
+.craft{
+    display:flex;
+    justify-content:space-between
+}
+
+.sr{
+    display: flex;
+    justify-content: space-between;
+}
+
+.srv{
+    display: flex;
+    justify-content: space-between;
+}
+.src{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.qwd{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.dsg{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.vfr{
+    display: flex;
+    justify-content: space-between; 
+}
+
+body{
+    background-color:#ffffff;
+}
+
+.designs:hover{
+transform: scale(1.2);
+
+}
+.said:hover{
+    transform: scale(1.2);
+}
+
+.fish:hover{
+    transform: scale(1.2);
+}
+
+.queen:hover{
+    transform: scale(1.2);
+}
+
+.mango:hover{
+    transform: scale(1.2);
+}
+
+.cake:hover{
+    transform: scale(1.2);
+}
+
+.pastry:hover{
+    transform: scale(1.2);
+}
+
+.idli:hover{
+    transform: scale(1.2);
+}
+
+.dosa:hover{
+    transform: scale(1.2);
+}
+a:link{
+    color: #ffffff;
+}
+a:visited{
+    color:#ffffff
+}
